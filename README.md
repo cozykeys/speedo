@@ -7,7 +7,7 @@ This keyboad is inspired by the Atreus62 [Atreus62](https://github.com/profet23/
 
 The current revision:
 
-![Revision 1][revision 1]
+![Current Revision][current revision]
 
-[revision 1]: ./images/rev1/speedo_plates.png "Revision 1"
+[current revision]: ./images/rev2/speedo_plates.png "Current Revision"
 
