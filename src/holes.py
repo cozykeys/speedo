@@ -3,12 +3,12 @@
 from speedo import Point, Square, Circle, Keycap
 
 
-
 def new_point(x, y):
     point = Point()
     point.x = x
     point.y = y
     return point
+
 
 def generate_hole_points():
     original_holes = [
@@ -23,7 +23,7 @@ def generate_hole_points():
 
     for original_hole in original_holes:
         new_hole = new_point(original_hole.x + 1.736, original_hole.y + 1.736)
-        print('{00}\n{1}\n\n'.format(new_hole.x, new_hole.y))
+        print('{0}\n{1}\n\n'.format(new_hole.x, new_hole.y))
 
 
 def main():

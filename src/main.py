@@ -1,6 +1,35 @@
 #!/usr/bin/env python
 
-from speedo import Point, Square, Circle, Keycap
+from speedo import Point, Square, Circle, Keycap, Switch, Column
+
+
+# TODO: Deserialize this from a json file
+def get_switch_data():
+    return {
+        "columns": [
+            Column(0, 3, 80, 5),
+            Column(0, 3, 80, 5),
+            Column(0, 6, 80, 5),
+            Column(0, 11, 80, 5),
+            Column(0, 5, 80, 5),
+            Column(0, 0, 80, 5)
+        ]
+    }
+
+
+def generate_columns():
+    columns = get_switch_data()["columns"]
+
+    for i in range(0, len(columns)):
+        if i > 0:
+            columns[i].x_offset = columns[i - 1].x_offset \
+                + Switch.MM_BETWEEN_HORIZONTAL
+
+        columns[i].initialize_switches()
+
+        print('Column:')
+        for switch in columns[i].switches:
+            print('  {0}'.format(switch.position.to_string()))
 
 
 def generate_thumb_cluster():
@@ -31,6 +60,7 @@ def generate_thumb_cluster():
 
 def main():
     thumb_keys = generate_thumb_cluster()
+    generate_columns()
 
 
 if __name__ == "__main__":
