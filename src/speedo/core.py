@@ -10,11 +10,9 @@ def format_float(f):
 
 
 class Point:
-    x = 0
-    y = 0
-
-    def __init__(self):
-        pass
+    def __init__(self, x=0, y=0):
+        self.x = x
+        self.y = y
 
     def to_string(self):
         return '({x}, {y})'.format(
@@ -82,3 +80,40 @@ class Circle:
         point.x = x + self.position.x
         point.y = y + self.position.y
         return point
+
+
+class Switch:
+    MM_BETWEEN_HORIZONTAL = 19.0
+    MM_BETWEEN_VERTICAL = 19.0
+
+    def __init__(self, position=None):
+        self.position = Point() if position is None else position
+
+
+class Column:
+    def __init__(
+        self,
+        x_offset=0,
+        y_offset=0,
+        angle=0,
+        row_count=0
+    ):
+        self.x_offset = x_offset
+        self.y_offset = y_offset
+        self.angle = angle
+        self.row_count = row_count
+        self.switches = []
+
+    def initialize_switches(self):
+        self.switches = [Switch(position=Point(x=self.x_offset,
+                                               y=self.y_offset))]
+
+        i = 1
+        while i < self.row_count:
+            switch = Switch()
+            switch.position.x = self.x_offset
+            switch.position.y = self.switches[i - 1].position.y \
+                + Switch.MM_BETWEEN_VERTICAL
+
+            self.switches.append(switch)
+            i += 1
