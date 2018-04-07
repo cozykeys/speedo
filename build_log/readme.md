@@ -14,7 +14,7 @@ These can be navigated to using the table of contents below
   * Next Steps
 * [02/25/2018](2018-02-25.md)
   * Order is in for Rev2
-* [02/26/2018](2018-02-27.md)
+* [02/26/2018](2018-02-26.md)
   * Deciding on Parts
     * The Decision
     * A Close Second
