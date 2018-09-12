@@ -1,9 +1,14 @@
-# Speedo
-Design files for the Speedo keyboard
+# CozyKeys Speedo
 
-This keyboard is inspired by the [Atreus62](https://github.com/profet23/atreus62).
+This repository contains the design files for the CozyKeys Speedo keyboard.
 
-![Speedo][speedo]
+![Speedo](http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-angle_800x800.jpg)
 
-[speedo]: ./build_log/images/04-03_23-09-56_00.jpg "Speedo"
+## Project Status
 
+### rev0
+
+The first and only current revision of the Speedo does not have a PCB and has
+to be hand-wired. After learning more about PCB design through more recent
+projects, I hope to revisit the Speedo and provide the same support in future
+revisions.
