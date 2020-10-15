@@ -1,0 +1,836 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg
+  width="345mm"
+  height="154mm"
+  viewBox="0 0 345 154" xmlns="http://www.w3.org/2000/svg">
+  <g
+    id="switch"
+    transform="translate(172.9725,77.259)">
+    <g
+      id="root">
+      <g
+        id="case">
+        <g
+          id=""
+          transform="translate(-140.5602,-59.8254)">
+          <circle
+            r="1.7815"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id=""
+          transform="translate(140.5602,-59.8254)">
+          <circle
+            r="1.7815"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id=""
+          transform="translate(-158.2508,40.5054)">
+          <circle
+            r="1.7815"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id=""
+          transform="translate(158.2508,40.5054)">
+          <circle
+            r="1.7815"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id=""
+          transform="translate(-24.102,-37.73)">
+          <circle
+            r="1.7815"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id=""
+          transform="translate(24.102,-37.73)">
+          <circle
+            r="1.7815"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id=""
+          transform="translate(-18,65.453)">
+          <circle
+            r="1.7815"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id=""
+          transform="translate(18,65.453)">
+          <circle
+            r="1.7815"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id="CasePerimeter">
+          <g
+            id="">
+            <path
+              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+              d="M -144.509 -61.864 Q -143.988 -64.818 -140.998 -64.571 L -82.703 -59.751 Q -79.713 -59.504 -76.759 -58.983 L -62.872 -56.535 Q -59.918 -56.014 -57.121 -54.93 L -19.78 -40.461 Q -16.983 -39.377 -13.983 -39.377 L -13 -39.377 Q -10 -39.377 -8.767 -36.642 L -7.5 -33.83 L -10 -33.83 L -10 1.17 L 10 1.17 L 10 -33.83 L 7.5 -33.83 L 8.767 -36.642 Q 10 -39.377 13 -39.377 L 13.983 -39.377 Q 16.983 -39.377 19.78 -40.461 L 57.121 -54.93 Q 59.918 -56.014 62.872 -56.535 L 76.759 -58.983 Q 79.713 -59.504 82.703 -59.751 L 140.998 -64.571 Q 143.988 -64.818 144.509 -61.864 L 162.645 40.993 Q 163.166 43.947 160.215 44.487 L 26.956 68.888 Q 24.005 69.428 21.005 69.428 L -21.005 69.428 Q -24.005 69.428 -26.956 68.888 L -160.215 44.487 Q -163.166 43.947 -162.645 40.993 L -144.509 -61.864" />
+          </g>
+        </g>
+      </g>
+      <g
+        id="left"
+        transform="translate(-80,0) rotate(10)">
+        <g
+          id="Columns">
+          <g
+            id="Column00"
+            transform="translate(-57.15,2.5)">
+            <g
+              id="Column00Key00"
+              transform="translate(0,-38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column00Key01"
+              transform="translate(0,-19.050001)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column00Key02"
+              transform="translate(0,-3.8146973E-06)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column00Key03"
+              transform="translate(0,19.05)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column00Key04"
+              transform="translate(0,38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+          <g
+            id="Column01"
+            transform="translate(-38.100002,2.5)">
+            <g
+              id="Column01Key00"
+              transform="translate(0,-38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column01Key01"
+              transform="translate(0,-19.050001)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column01Key02"
+              transform="translate(0,-3.8146973E-06)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column01Key03"
+              transform="translate(0,19.05)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column01Key04"
+              transform="translate(0,38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+          <g
+            id="Column02"
+            transform="translate(-19.05,-0.5)">
+            <g
+              id="Column02Key00"
+              transform="translate(0,-38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column02Key01"
+              transform="translate(0,-19.050001)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column02Key02"
+              transform="translate(0,-3.8146973E-06)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column02Key03"
+              transform="translate(0,19.05)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column02Key04"
+              transform="translate(0,38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+          <g
+            id="Column03"
+            transform="translate(0,-5.5)">
+            <g
+              id="Column03Key00"
+              transform="translate(0,-38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column03Key01"
+              transform="translate(0,-19.050001)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column03Key02"
+              transform="translate(0,-3.8146973E-06)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column03Key03"
+              transform="translate(0,19.05)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column03Key04"
+              transform="translate(0,38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+          <g
+            id="Column04"
+            transform="translate(19.050003,0.5)">
+            <g
+              id="Column04Key00"
+              transform="translate(0,-38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column04Key01"
+              transform="translate(0,-19.050001)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column04Key02"
+              transform="translate(0,-3.8146973E-06)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column04Key03"
+              transform="translate(0,19.05)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column04Key04"
+              transform="translate(0,38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+          <g
+            id="Column05"
+            transform="translate(38.100006,5.5)">
+            <g
+              id="Column05Key00"
+              transform="translate(0,-38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column05Key01"
+              transform="translate(0,-19.050001)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column05Key02"
+              transform="translate(0,-3.8146973E-06)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column05Key03"
+              transform="translate(0,19.05)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column05Key04"
+              transform="translate(0,38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+          <g
+            id="Column06"
+            transform="translate(57.15001,5.5)">
+            <g
+              id=""
+              transform="translate(0,-9.525002)" />
+            <g
+              id="Column06Key01"
+              transform="translate(0,38.1)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+        id="center"
+        transform="translate(0,27.5)">
+        <g
+          id="Columns">
+          <g
+            id="Column06"
+            transform="translate(-19.05,0)">
+            <g
+              id="Column06Key00">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+          <g
+            id="Column07">
+            <g
+              id="Column07Key00"
+              transform="translate(0,-9.525001)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column07Key01"
+              transform="translate(0,9.525002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+          <g
+            id="Column08"
+            transform="translate(19.050003,0)">
+            <g
+              id="Column08Key00">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+      <g
+        id="right"
+        transform="translate(80,0) rotate(-10)">
+        <g
+          id="Columns">
+          <g
+            id="Column08"
+            transform="translate(-57.15,5.5)">
+            <g
+              id=""
+              transform="translate(0,-9.525002)" />
+            <g
+              id="Column08Key01"
+              transform="translate(0,38.1)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+          <g
+            id="Column09"
+            transform="translate(-38.100002,5.5)">
+            <g
+              id="Column09Key00"
+              transform="translate(0,-38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column09Key01"
+              transform="translate(0,-19.050001)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column09Key02"
+              transform="translate(0,-3.8146973E-06)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column09Key03"
+              transform="translate(0,19.05)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column09Key04"
+              transform="translate(0,38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+          <g
+            id="Column10"
+            transform="translate(-19.05,0.5)">
+            <g
+              id="Column10Key00"
+              transform="translate(0,-38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column10Key01"
+              transform="translate(0,-19.050001)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column10Key02"
+              transform="translate(0,-3.8146973E-06)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column10Key03"
+              transform="translate(0,19.05)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column10Key04"
+              transform="translate(0,38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+          <g
+            id="Column11"
+            transform="translate(0,-5.5)">
+            <g
+              id="Column11Key00"
+              transform="translate(0,-38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column11Key01"
+              transform="translate(0,-19.050001)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column11Key02"
+              transform="translate(0,-3.8146973E-06)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column11Key03"
+              transform="translate(0,19.05)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column11Key04"
+              transform="translate(0,38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+          <g
+            id="Column12"
+            transform="translate(19.050003,-0.5)">
+            <g
+              id="Column12Key00"
+              transform="translate(0,-38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column12Key01"
+              transform="translate(0,-19.050001)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column12Key02"
+              transform="translate(0,-3.8146973E-06)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column12Key03"
+              transform="translate(0,19.05)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column12Key04"
+              transform="translate(0,38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+          <g
+            id="Column13"
+            transform="translate(38.100006,2.5)">
+            <g
+              id="Column13Key00"
+              transform="translate(0,-38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column13Key01"
+              transform="translate(0,-19.050001)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column13Key02"
+              transform="translate(0,-3.8146973E-06)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column13Key03"
+              transform="translate(0,19.05)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column13Key04"
+              transform="translate(0,38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+          <g
+            id="Column14"
+            transform="translate(57.15001,2.5)">
+            <g
+              id="Column14Key00"
+              transform="translate(0,-38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column14Key01"
+              transform="translate(0,-19.050001)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column14Key02"
+              transform="translate(0,-3.8146973E-06)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column14Key03"
+              transform="translate(0,19.05)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+            <g
+              id="Column14Key04"
+              transform="translate(0,38.100002)">
+              <g
+                id="">
+                <path
+                  style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+                  d="M -7 -7 L 7 -7 L 7 -6 L 7.8 -6 L 7.8 6 L 7 6 L 7 7 L -7 7 L -7 6 L -7.8 6 L -7.8 -6 L -7 -6 L -7 -7" />
+              </g>
+            </g>
+          </g>
+        </g>
+      </g>
+    </g>
+    <g
+      id="Controller"
+      transform="translate(0,-16.33)" />
+  </g>
+</svg>

@@ -1,0 +1,111 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<svg
+  width="345mm"
+  height="154mm"
+  viewBox="0 0 345 154" xmlns="http://www.w3.org/2000/svg">
+  <g
+    id="top"
+    transform="translate(172.9725,77.259)">
+    <g
+      id="root">
+      <g
+        id="case">
+        <g
+          id=""
+          transform="translate(-140.5602,-59.8254)">
+          <circle
+            r="1.15"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id=""
+          transform="translate(140.5602,-59.8254)">
+          <circle
+            r="1.15"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id=""
+          transform="translate(-158.2508,40.5054)">
+          <circle
+            r="1.15"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id=""
+          transform="translate(158.2508,40.5054)">
+          <circle
+            r="1.15"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id=""
+          transform="translate(-24.102,-37.73)">
+          <circle
+            r="1.15"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id=""
+          transform="translate(24.102,-37.73)">
+          <circle
+            r="1.15"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id=""
+          transform="translate(-18,65.453)">
+          <circle
+            r="1.15"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id=""
+          transform="translate(18,65.453)">
+          <circle
+            r="1.15"
+            style="fill:none;stroke:#000000;stroke-width:0.5" />
+        </g>
+        <g
+          id="CasePerimeter">
+          <g
+            id="">
+            <path
+              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+              d="M -144.509 -61.864 Q -143.988 -64.818 -140.998 -64.571 L -82.703 -59.751 Q -79.713 -59.504 -76.759 -58.983 L -62.872 -56.535 Q -59.918 -56.014 -57.121 -54.93 L -19.78 -40.461 Q -16.983 -39.377 -13.983 -39.377 L 13.983 -39.377 Q 16.983 -39.377 19.78 -40.461 L 57.121 -54.93 Q 59.918 -56.014 62.872 -56.535 L 76.759 -58.983 Q 79.713 -59.504 82.703 -59.751 L 140.998 -64.571 Q 143.988 -64.818 144.509 -61.864 L 162.645 40.993 Q 163.166 43.947 160.215 44.487 L 26.956 68.888 Q 24.005 69.428 21.005 69.428 L -21.005 69.428 Q -24.005 69.428 -26.956 68.888 L -160.215 44.487 Q -163.166 43.947 -162.645 40.993 L -144.509 -61.864" />
+          </g>
+        </g>
+        <g
+          id="LeftKeywellPerimeter"
+          transform="translate(-80,0) rotate(10)">
+          <g
+            id="">
+            <path
+              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+              d="M -67.2 50.65 L -28.05 50.65 L -28.05 47.65 L -9 47.65 L -9 42.65 L 9 42.65 L 9 48.65 L 28.05 48.65 L 28.05 53.65 L 67.2 53.65 L 67.2 33.55 L 48.15 33.55 L 48.15 -42.65 L 29.1 -42.65 L 29.1 -47.65 L 10.05 -47.65 L 10.05 -53.65 L -10.05 -53.65 L -10.05 -48.65 L -29.1 -48.65 L -29.1 -45.65 L -67.2 -45.65 L -67.2 50.65" />
+          </g>
+        </g>
+        <g
+          id="CenterKeywellPerimeter"
+          transform="translate(0,27.5)">
+          <g
+            id="">
+            <path
+              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+              d="M -29.1 10.05 L -10.05 10.05 L -10.05 19.575 L 10.05 19.575 L 10.05 10.05 L 29.1 10.05 L 29.1 -10.05 L 10.05 -10.05 L 10.05 -19.575 L -10.05 -19.575 L -10.05 -10.05 L -29.1 -10.05 L -29.1 10.05" />
+          </g>
+        </g>
+        <g
+          id="RightKeywellPerimeter"
+          transform="translate(80,0) rotate(-10)">
+          <g
+            id="">
+            <path
+              style="fill:none;fill-opacity:1;stroke:#000000;stroke-width:0.5"
+              d="M 67.2 50.65 L 28.05 50.65 L 28.05 47.65 L 9 47.65 L 9 42.65 L -9 42.65 L -9 48.65 L -28.05 48.65 L -28.05 53.65 L -67.2 53.65 L -67.2 33.55 L -48.15 33.55 L -48.15 -42.65 L -29.1 -42.65 L -29.1 -47.65 L -10.05 -47.65 L -10.05 -53.65 L 10.05 -53.65 L 10.05 -48.65 L 29.1 -48.65 L 29.1 -45.65 L 67.2 -45.65 L 67.2 50.65" />
+          </g>
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

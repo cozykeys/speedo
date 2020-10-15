@@ -1,0 +1,2754 @@
+EESchema Schematic File Version 4
+EELAYER 30 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title ""
+Date ""
+Rev ""
+Comp ""
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L cozy-components:MX SW7
+U 1 1 5F7AC183
+P 6950 800
+F 0 "SW7" H 6950 1023 50  0000 C CNN
+F 1 "MX" H 6950 800 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 6950 800 60  0001 C CNN
+F 3 "" H 6950 800 60  0001 C CNN
+	1    6950 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D7
+U 1 1 5F7AC189
+P 6650 1000
+F 0 "D7" V 6650 930 50  0000 R CNN
+F 1 "D_Small" V 6605 930 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 6650 1000 50  0001 C CNN
+F 3 "~" V 6650 1000 50  0001 C CNN
+	1    6650 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW8
+U 1 1 5F7AC18F
+P 7600 800
+F 0 "SW8" H 7600 1023 50  0000 C CNN
+F 1 "MX" H 7600 800 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 7600 800 60  0001 C CNN
+F 3 "" H 7600 800 60  0001 C CNN
+	1    7600 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D8
+U 1 1 5F7AC195
+P 7300 1000
+F 0 "D8" V 7300 930 50  0000 R CNN
+F 1 "D_Small" V 7255 930 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 7300 1000 50  0001 C CNN
+F 3 "~" V 7300 1000 50  0001 C CNN
+	1    7300 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW9
+U 1 1 5F7AC19B
+P 8250 800
+F 0 "SW9" H 8250 1023 50  0000 C CNN
+F 1 "MX" H 8250 800 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 8250 800 60  0001 C CNN
+F 3 "" H 8250 800 60  0001 C CNN
+	1    8250 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D9
+U 1 1 5F7AC1A1
+P 7950 1000
+F 0 "D9" V 7950 930 50  0000 R CNN
+F 1 "D_Small" V 7905 930 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 7950 1000 50  0001 C CNN
+F 3 "~" V 7950 1000 50  0001 C CNN
+	1    7950 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW10
+U 1 1 5F7AC1A7
+P 8900 800
+F 0 "SW10" H 8900 1023 50  0000 C CNN
+F 1 "MX" H 8900 800 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 8900 800 60  0001 C CNN
+F 3 "" H 8900 800 60  0001 C CNN
+	1    8900 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D10
+U 1 1 5F7AC1AD
+P 8600 1000
+F 0 "D10" V 8600 930 50  0000 R CNN
+F 1 "D_Small" V 8555 930 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 8600 1000 50  0001 C CNN
+F 3 "~" V 8600 1000 50  0001 C CNN
+	1    8600 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW11
+U 1 1 5F7AC1B3
+P 9550 800
+F 0 "SW11" H 9550 1023 50  0000 C CNN
+F 1 "MX" H 9550 800 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 9550 800 60  0001 C CNN
+F 3 "" H 9550 800 60  0001 C CNN
+	1    9550 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D11
+U 1 1 5F7AC1B9
+P 9250 1000
+F 0 "D11" V 9250 930 50  0000 R CNN
+F 1 "D_Small" V 9205 930 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 9250 1000 50  0001 C CNN
+F 3 "~" V 9250 1000 50  0001 C CNN
+	1    9250 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW12
+U 1 1 5F7AC1BF
+P 10200 800
+F 0 "SW12" H 10200 1023 50  0000 C CNN
+F 1 "MX" H 10200 800 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 10200 800 60  0001 C CNN
+F 3 "" H 10200 800 60  0001 C CNN
+	1    10200 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D12
+U 1 1 5F7AC1C5
+P 9900 1000
+F 0 "D12" V 9900 930 50  0000 R CNN
+F 1 "D_Small" V 9855 930 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 9900 1000 50  0001 C CNN
+F 3 "~" V 9900 1000 50  0001 C CNN
+	1    9900 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW20
+U 1 1 5F7AC1CB
+P 6950 1400
+F 0 "SW20" H 6950 1623 50  0000 C CNN
+F 1 "MX" H 6950 1400 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 6950 1400 60  0001 C CNN
+F 3 "" H 6950 1400 60  0001 C CNN
+	1    6950 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D20
+U 1 1 5F7AC1D1
+P 6650 1600
+F 0 "D20" V 6650 1530 50  0000 R CNN
+F 1 "D_Small" V 6605 1530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 6650 1600 50  0001 C CNN
+F 3 "~" V 6650 1600 50  0001 C CNN
+	1    6650 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW21
+U 1 1 5F7AC1D7
+P 7600 1400
+F 0 "SW21" H 7600 1623 50  0000 C CNN
+F 1 "MX" H 7600 1400 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 7600 1400 60  0001 C CNN
+F 3 "" H 7600 1400 60  0001 C CNN
+	1    7600 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D21
+U 1 1 5F7AC1DD
+P 7300 1600
+F 0 "D21" V 7300 1530 50  0000 R CNN
+F 1 "D_Small" V 7255 1530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 7300 1600 50  0001 C CNN
+F 3 "~" V 7300 1600 50  0001 C CNN
+	1    7300 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW22
+U 1 1 5F7AC1E3
+P 8250 1400
+F 0 "SW22" H 8250 1623 50  0000 C CNN
+F 1 "MX" H 8250 1400 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 8250 1400 60  0001 C CNN
+F 3 "" H 8250 1400 60  0001 C CNN
+	1    8250 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D22
+U 1 1 5F7AC1E9
+P 7950 1600
+F 0 "D22" V 7950 1530 50  0000 R CNN
+F 1 "D_Small" V 7905 1530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 7950 1600 50  0001 C CNN
+F 3 "~" V 7950 1600 50  0001 C CNN
+	1    7950 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW23
+U 1 1 5F7AC1EF
+P 8900 1400
+F 0 "SW23" H 8900 1623 50  0000 C CNN
+F 1 "MX" H 8900 1400 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 8900 1400 60  0001 C CNN
+F 3 "" H 8900 1400 60  0001 C CNN
+	1    8900 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D23
+U 1 1 5F7AC1F5
+P 8600 1600
+F 0 "D23" V 8600 1530 50  0000 R CNN
+F 1 "D_Small" V 8555 1530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 8600 1600 50  0001 C CNN
+F 3 "~" V 8600 1600 50  0001 C CNN
+	1    8600 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW24
+U 1 1 5F7AC1FB
+P 9550 1400
+F 0 "SW24" H 9550 1623 50  0000 C CNN
+F 1 "MX" H 9550 1400 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 9550 1400 60  0001 C CNN
+F 3 "" H 9550 1400 60  0001 C CNN
+	1    9550 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D24
+U 1 1 5F7AC201
+P 9250 1600
+F 0 "D24" V 9250 1530 50  0000 R CNN
+F 1 "D_Small" V 9205 1530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 9250 1600 50  0001 C CNN
+F 3 "~" V 9250 1600 50  0001 C CNN
+	1    9250 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW25
+U 1 1 5F7AC207
+P 10200 1400
+F 0 "SW25" H 10200 1623 50  0000 C CNN
+F 1 "MX" H 10200 1400 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 10200 1400 60  0001 C CNN
+F 3 "" H 10200 1400 60  0001 C CNN
+	1    10200 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D25
+U 1 1 5F7AC20D
+P 9900 1600
+F 0 "D25" V 9900 1530 50  0000 R CNN
+F 1 "D_Small" V 9855 1530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 9900 1600 50  0001 C CNN
+F 3 "~" V 9900 1600 50  0001 C CNN
+	1    9900 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW34
+U 1 1 5F7AC213
+P 6950 2000
+F 0 "SW34" H 6950 2223 50  0000 C CNN
+F 1 "MX" H 6950 2000 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 6950 2000 60  0001 C CNN
+F 3 "" H 6950 2000 60  0001 C CNN
+	1    6950 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D34
+U 1 1 5F7AC219
+P 6650 2200
+F 0 "D34" V 6650 2130 50  0000 R CNN
+F 1 "D_Small" V 6605 2130 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 6650 2200 50  0001 C CNN
+F 3 "~" V 6650 2200 50  0001 C CNN
+	1    6650 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW35
+U 1 1 5F7AC21F
+P 7600 2000
+F 0 "SW35" H 7600 2223 50  0000 C CNN
+F 1 "MX" H 7600 2000 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 7600 2000 60  0001 C CNN
+F 3 "" H 7600 2000 60  0001 C CNN
+	1    7600 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D35
+U 1 1 5F7AC225
+P 7300 2200
+F 0 "D35" V 7300 2130 50  0000 R CNN
+F 1 "D_Small" V 7255 2130 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 7300 2200 50  0001 C CNN
+F 3 "~" V 7300 2200 50  0001 C CNN
+	1    7300 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW36
+U 1 1 5F7AC22B
+P 8250 2000
+F 0 "SW36" H 8250 2223 50  0000 C CNN
+F 1 "MX" H 8250 2000 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 8250 2000 60  0001 C CNN
+F 3 "" H 8250 2000 60  0001 C CNN
+	1    8250 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D36
+U 1 1 5F7AC231
+P 7950 2200
+F 0 "D36" V 7950 2130 50  0000 R CNN
+F 1 "D_Small" V 7905 2130 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 7950 2200 50  0001 C CNN
+F 3 "~" V 7950 2200 50  0001 C CNN
+	1    7950 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW37
+U 1 1 5F7AC237
+P 8900 2000
+F 0 "SW37" H 8900 2223 50  0000 C CNN
+F 1 "MX" H 8900 2000 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 8900 2000 60  0001 C CNN
+F 3 "" H 8900 2000 60  0001 C CNN
+	1    8900 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D37
+U 1 1 5F7AC23D
+P 8600 2200
+F 0 "D37" V 8600 2130 50  0000 R CNN
+F 1 "D_Small" V 8555 2130 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 8600 2200 50  0001 C CNN
+F 3 "~" V 8600 2200 50  0001 C CNN
+	1    8600 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW38
+U 1 1 5F7AC243
+P 9550 2000
+F 0 "SW38" H 9550 2223 50  0000 C CNN
+F 1 "MX" H 9550 2000 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 9550 2000 60  0001 C CNN
+F 3 "" H 9550 2000 60  0001 C CNN
+	1    9550 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D38
+U 1 1 5F7AC249
+P 9250 2200
+F 0 "D38" V 9250 2130 50  0000 R CNN
+F 1 "D_Small" V 9205 2130 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 9250 2200 50  0001 C CNN
+F 3 "~" V 9250 2200 50  0001 C CNN
+	1    9250 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW39
+U 1 1 5F7AC24F
+P 10200 2000
+F 0 "SW39" H 10200 2223 50  0000 C CNN
+F 1 "MX" H 10200 2000 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 10200 2000 60  0001 C CNN
+F 3 "" H 10200 2000 60  0001 C CNN
+	1    10200 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D39
+U 1 1 5F7AC255
+P 9900 2200
+F 0 "D39" V 9900 2130 50  0000 R CNN
+F 1 "D_Small" V 9855 2130 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 9900 2200 50  0001 C CNN
+F 3 "~" V 9900 2200 50  0001 C CNN
+	1    9900 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW47
+U 1 1 5F7AC25B
+P 6950 2600
+F 0 "SW47" H 6950 2823 50  0000 C CNN
+F 1 "MX" H 6950 2600 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 6950 2600 60  0001 C CNN
+F 3 "" H 6950 2600 60  0001 C CNN
+	1    6950 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D47
+U 1 1 5F7AC261
+P 6650 2800
+F 0 "D47" V 6650 2730 50  0000 R CNN
+F 1 "D_Small" V 6605 2730 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 6650 2800 50  0001 C CNN
+F 3 "~" V 6650 2800 50  0001 C CNN
+	1    6650 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW48
+U 1 1 5F7AC267
+P 7600 2600
+F 0 "SW48" H 7600 2823 50  0000 C CNN
+F 1 "MX" H 7600 2600 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 7600 2600 60  0001 C CNN
+F 3 "" H 7600 2600 60  0001 C CNN
+	1    7600 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D48
+U 1 1 5F7AC26D
+P 7300 2800
+F 0 "D48" V 7300 2730 50  0000 R CNN
+F 1 "D_Small" V 7255 2730 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 7300 2800 50  0001 C CNN
+F 3 "~" V 7300 2800 50  0001 C CNN
+	1    7300 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW49
+U 1 1 5F7AC273
+P 8250 2600
+F 0 "SW49" H 8250 2823 50  0000 C CNN
+F 1 "MX" H 8250 2600 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 8250 2600 60  0001 C CNN
+F 3 "" H 8250 2600 60  0001 C CNN
+	1    8250 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D49
+U 1 1 5F7AC279
+P 7950 2800
+F 0 "D49" V 7950 2730 50  0000 R CNN
+F 1 "D_Small" V 7905 2730 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 7950 2800 50  0001 C CNN
+F 3 "~" V 7950 2800 50  0001 C CNN
+	1    7950 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW50
+U 1 1 5F7AC27F
+P 8900 2600
+F 0 "SW50" H 8900 2823 50  0000 C CNN
+F 1 "MX" H 8900 2600 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 8900 2600 60  0001 C CNN
+F 3 "" H 8900 2600 60  0001 C CNN
+	1    8900 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D50
+U 1 1 5F7AC285
+P 8600 2800
+F 0 "D50" V 8600 2730 50  0000 R CNN
+F 1 "D_Small" V 8555 2730 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 8600 2800 50  0001 C CNN
+F 3 "~" V 8600 2800 50  0001 C CNN
+	1    8600 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW51
+U 1 1 5F7AC28B
+P 9550 2600
+F 0 "SW51" H 9550 2823 50  0000 C CNN
+F 1 "MX" H 9550 2600 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 9550 2600 60  0001 C CNN
+F 3 "" H 9550 2600 60  0001 C CNN
+	1    9550 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D51
+U 1 1 5F7AC291
+P 9250 2800
+F 0 "D51" V 9250 2730 50  0000 R CNN
+F 1 "D_Small" V 9205 2730 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 9250 2800 50  0001 C CNN
+F 3 "~" V 9250 2800 50  0001 C CNN
+	1    9250 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW52
+U 1 1 5F7AC297
+P 10200 2600
+F 0 "SW52" H 10200 2823 50  0000 C CNN
+F 1 "MX" H 10200 2600 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 10200 2600 60  0001 C CNN
+F 3 "" H 10200 2600 60  0001 C CNN
+	1    10200 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D52
+U 1 1 5F7AC29D
+P 9900 2800
+F 0 "D52" V 9900 2730 50  0000 R CNN
+F 1 "D_Small" V 9855 2730 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 9900 2800 50  0001 C CNN
+F 3 "~" V 9900 2800 50  0001 C CNN
+	1    9900 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW61
+U 1 1 5F7AC2A3
+P 6950 3200
+F 0 "SW61" H 6950 3423 50  0000 C CNN
+F 1 "MX" H 6950 3200 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 6950 3200 60  0001 C CNN
+F 3 "" H 6950 3200 60  0001 C CNN
+	1    6950 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L cozy-components:MX SW62
+U 1 1 5F7AC2A9
+P 7600 3200
+F 0 "SW62" H 7600 3423 50  0000 C CNN
+F 1 "MX" H 7600 3200 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 7600 3200 60  0001 C CNN
+F 3 "" H 7600 3200 60  0001 C CNN
+	1    7600 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L cozy-components:MX SW63
+U 1 1 5F7AC2AF
+P 8250 3200
+F 0 "SW63" H 8250 3423 50  0000 C CNN
+F 1 "MX" H 8250 3200 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 8250 3200 60  0001 C CNN
+F 3 "" H 8250 3200 60  0001 C CNN
+	1    8250 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L cozy-components:MX SW64
+U 1 1 5F7AC2B5
+P 8900 3200
+F 0 "SW64" H 8900 3423 50  0000 C CNN
+F 1 "MX" H 8900 3200 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 8900 3200 60  0001 C CNN
+F 3 "" H 8900 3200 60  0001 C CNN
+	1    8900 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L cozy-components:MX SW65
+U 1 1 5F7AC2BB
+P 9550 3200
+F 0 "SW65" H 9550 3423 50  0000 C CNN
+F 1 "MX" H 9550 3200 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 9550 3200 60  0001 C CNN
+F 3 "" H 9550 3200 60  0001 C CNN
+	1    9550 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L cozy-components:MX SW66
+U 1 1 5F7AC2C1
+P 10200 3200
+F 0 "SW66" H 10200 3423 50  0000 C CNN
+F 1 "MX" H 10200 3200 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 10200 3200 60  0001 C CNN
+F 3 "" H 10200 3200 60  0001 C CNN
+	1    10200 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D66
+U 1 1 5F7AC2C7
+P 9900 3400
+F 0 "D66" V 9900 3330 50  0000 R CNN
+F 1 "D_Small" V 9855 3330 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 9900 3400 50  0001 C CNN
+F 3 "~" V 9900 3400 50  0001 C CNN
+	1    9900 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D65
+U 1 1 5F7AC2CD
+P 9250 3400
+F 0 "D65" V 9250 3330 50  0000 R CNN
+F 1 "D_Small" V 9205 3330 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 9250 3400 50  0001 C CNN
+F 3 "~" V 9250 3400 50  0001 C CNN
+	1    9250 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D64
+U 1 1 5F7AC2D3
+P 8600 3400
+F 0 "D64" V 8600 3330 50  0000 R CNN
+F 1 "D_Small" V 8555 3330 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 8600 3400 50  0001 C CNN
+F 3 "~" V 8600 3400 50  0001 C CNN
+	1    8600 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D63
+U 1 1 5F7AC2D9
+P 7950 3400
+F 0 "D63" V 7950 3330 50  0000 R CNN
+F 1 "D_Small" V 7905 3330 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 7950 3400 50  0001 C CNN
+F 3 "~" V 7950 3400 50  0001 C CNN
+	1    7950 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D62
+U 1 1 5F7AC2DF
+P 7300 3400
+F 0 "D62" V 7300 3330 50  0000 R CNN
+F 1 "D_Small" V 7255 3330 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 7300 3400 50  0001 C CNN
+F 3 "~" V 7300 3400 50  0001 C CNN
+	1    7300 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D61
+U 1 1 5F7AC2E5
+P 6650 3400
+F 0 "D61" V 6650 3330 50  0000 R CNN
+F 1 "D_Small" V 6605 3330 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 6650 3400 50  0001 C CNN
+F 3 "~" V 6650 3400 50  0001 C CNN
+	1    6650 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW60
+U 1 1 5F7F1C8D
+P 6300 3200
+F 0 "SW60" H 6300 3423 50  0000 C CNN
+F 1 "MX" H 6300 3200 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 6300 3200 60  0001 C CNN
+F 3 "" H 6300 3200 60  0001 C CNN
+	1    6300 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D60
+U 1 1 5F7F1C93
+P 6000 3400
+F 0 "D60" V 6000 3330 50  0000 R CNN
+F 1 "D_Small" V 5955 3330 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 6000 3400 50  0001 C CNN
+F 3 "~" V 6000 3400 50  0001 C CNN
+	1    6000 3400
+	0    -1   -1   0   
+$EndComp
+Text Label 7250 700  1    50   ~ 0
+col8
+Text Label 7900 700  1    50   ~ 0
+col9
+Text Label 8550 700  1    50   ~ 0
+col10
+Text Label 9200 700  1    50   ~ 0
+col11
+Text Label 9850 700  1    50   ~ 0
+col12
+Text Label 10500 700  1    50   ~ 0
+col13
+Wire Wire Line
+	6650 1100 7300 1100
+Wire Wire Line
+	7300 1100 7950 1100
+Connection ~ 7300 1100
+Wire Wire Line
+	7950 1100 8600 1100
+Connection ~ 7950 1100
+Wire Wire Line
+	4700 3200 4700 3300
+Wire Wire Line
+	4050 3200 4050 3300
+Wire Wire Line
+	3400 3200 3400 3300
+Wire Wire Line
+	2750 3200 2750 3300
+Wire Wire Line
+	2100 3200 2100 3300
+Wire Wire Line
+	1450 3200 1450 3300
+Wire Wire Line
+	800  3200 800  3300
+Wire Wire Line
+	4050 2600 4050 2700
+Wire Wire Line
+	3400 2600 3400 2700
+Wire Wire Line
+	2750 2600 2750 2700
+Wire Wire Line
+	2100 2600 2100 2700
+Wire Wire Line
+	1450 2600 1450 2700
+Wire Wire Line
+	800  2600 800  2700
+Wire Wire Line
+	4050 2000 4050 2100
+Wire Wire Line
+	3400 2000 3400 2100
+Wire Wire Line
+	2750 2000 2750 2100
+Wire Wire Line
+	2100 2000 2100 2100
+Wire Wire Line
+	1450 2000 1450 2100
+Wire Wire Line
+	800  2000 800  2100
+Wire Wire Line
+	4050 1400 4050 1500
+Wire Wire Line
+	3400 1400 3400 1500
+Wire Wire Line
+	2750 1400 2750 1500
+Wire Wire Line
+	2100 1400 2100 1500
+Wire Wire Line
+	1450 1400 1450 1500
+Wire Wire Line
+	800  1400 800  1500
+Wire Wire Line
+	4050 800  4050 900 
+Wire Wire Line
+	3400 800  3400 900 
+Wire Wire Line
+	2750 800  2750 900 
+Wire Wire Line
+	2100 800  2100 900 
+Wire Wire Line
+	1450 800  1450 900 
+Wire Wire Line
+	800  800  800  900 
+Connection ~ 4050 3500
+Wire Wire Line
+	4050 3500 4700 3500
+Connection ~ 3400 3500
+Wire Wire Line
+	3400 3500 4050 3500
+Connection ~ 2750 3500
+Wire Wire Line
+	2750 3500 3400 3500
+Connection ~ 2100 3500
+Wire Wire Line
+	2100 3500 2750 3500
+Connection ~ 1450 3500
+Wire Wire Line
+	1450 3500 2100 3500
+Connection ~ 800  3500
+Wire Wire Line
+	800  3500 1450 3500
+Wire Wire Line
+	700  3500 800  3500
+Connection ~ 3400 2900
+Wire Wire Line
+	3400 2900 4050 2900
+Connection ~ 2750 2900
+Wire Wire Line
+	2750 2900 3400 2900
+Connection ~ 2100 2900
+Wire Wire Line
+	2100 2900 2750 2900
+Connection ~ 1450 2900
+Wire Wire Line
+	1450 2900 2100 2900
+Connection ~ 800  2900
+Wire Wire Line
+	800  2900 1450 2900
+Wire Wire Line
+	700  2900 800  2900
+Connection ~ 3400 2300
+Wire Wire Line
+	3400 2300 4050 2300
+Connection ~ 2750 2300
+Wire Wire Line
+	2750 2300 3400 2300
+Connection ~ 2100 2300
+Wire Wire Line
+	2100 2300 2750 2300
+Connection ~ 1450 2300
+Wire Wire Line
+	1450 2300 2100 2300
+Connection ~ 800  2300
+Wire Wire Line
+	800  2300 1450 2300
+Wire Wire Line
+	700  2300 800  2300
+Connection ~ 3400 1700
+Wire Wire Line
+	3400 1700 4050 1700
+Connection ~ 2750 1700
+Wire Wire Line
+	2750 1700 3400 1700
+Connection ~ 2100 1700
+Wire Wire Line
+	2100 1700 2750 1700
+Connection ~ 1450 1700
+Wire Wire Line
+	1450 1700 2100 1700
+Connection ~ 800  1700
+Wire Wire Line
+	800  1700 1450 1700
+Wire Wire Line
+	700  1700 800  1700
+Connection ~ 3400 1100
+Wire Wire Line
+	3400 1100 4050 1100
+Connection ~ 2750 1100
+Wire Wire Line
+	2750 1100 3400 1100
+Connection ~ 2100 1100
+Wire Wire Line
+	2100 1100 2750 1100
+Connection ~ 1450 1100
+Wire Wire Line
+	1450 1100 2100 1100
+Connection ~ 800  1100
+Wire Wire Line
+	800  1100 1450 1100
+Wire Wire Line
+	700  1100 800  1100
+Text Label 4650 700  1    50   ~ 0
+col5
+Text Label 4000 700  1    50   ~ 0
+col4
+Text Label 3350 700  1    50   ~ 0
+col3
+Text Label 2700 700  1    50   ~ 0
+col2
+Text Label 2050 700  1    50   ~ 0
+col1
+Text Label 1400 700  1    50   ~ 0
+col0
+Text Label 700  3500 2    50   ~ 0
+row4
+Text Label 700  2900 2    50   ~ 0
+row3
+Text Label 700  2300 2    50   ~ 0
+row2
+Text Label 700  1100 2    50   ~ 0
+row0
+Text Label 700  1700 2    50   ~ 0
+row1
+$Comp
+L Device:D_Small D59
+U 1 1 5F7F114D
+P 4700 3400
+F 0 "D59" V 4700 3330 50  0000 R CNN
+F 1 "D_Small" V 4655 3330 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 4700 3400 50  0001 C CNN
+F 3 "~" V 4700 3400 50  0001 C CNN
+	1    4700 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D53
+U 1 1 5F79031D
+P 800 3400
+F 0 "D53" V 800 3330 50  0000 R CNN
+F 1 "D_Small" V 755 3330 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 800 3400 50  0001 C CNN
+F 3 "~" V 800 3400 50  0001 C CNN
+	1    800  3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D54
+U 1 1 5F790329
+P 1450 3400
+F 0 "D54" V 1450 3330 50  0000 R CNN
+F 1 "D_Small" V 1405 3330 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 1450 3400 50  0001 C CNN
+F 3 "~" V 1450 3400 50  0001 C CNN
+	1    1450 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D55
+U 1 1 5F790335
+P 2100 3400
+F 0 "D55" V 2100 3330 50  0000 R CNN
+F 1 "D_Small" V 2055 3330 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 2100 3400 50  0001 C CNN
+F 3 "~" V 2100 3400 50  0001 C CNN
+	1    2100 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D56
+U 1 1 5F790341
+P 2750 3400
+F 0 "D56" V 2750 3330 50  0000 R CNN
+F 1 "D_Small" V 2705 3330 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 2750 3400 50  0001 C CNN
+F 3 "~" V 2750 3400 50  0001 C CNN
+	1    2750 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D57
+U 1 1 5F79034D
+P 3400 3400
+F 0 "D57" V 3400 3330 50  0000 R CNN
+F 1 "D_Small" V 3355 3330 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 3400 3400 50  0001 C CNN
+F 3 "~" V 3400 3400 50  0001 C CNN
+	1    3400 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L Device:D_Small D58
+U 1 1 5F790359
+P 4050 3400
+F 0 "D58" V 4050 3330 50  0000 R CNN
+F 1 "D_Small" V 4005 3330 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 4050 3400 50  0001 C CNN
+F 3 "~" V 4050 3400 50  0001 C CNN
+	1    4050 3400
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW58
+U 1 1 5F790353
+P 4350 3200
+F 0 "SW58" H 4350 3423 50  0000 C CNN
+F 1 "MX" H 4350 3200 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 4350 3200 60  0001 C CNN
+F 3 "" H 4350 3200 60  0001 C CNN
+	1    4350 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L cozy-components:MX SW57
+U 1 1 5F790347
+P 3700 3200
+F 0 "SW57" H 3700 3423 50  0000 C CNN
+F 1 "MX" H 3700 3200 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 3700 3200 60  0001 C CNN
+F 3 "" H 3700 3200 60  0001 C CNN
+	1    3700 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L cozy-components:MX SW56
+U 1 1 5F79033B
+P 3050 3200
+F 0 "SW56" H 3050 3423 50  0000 C CNN
+F 1 "MX" H 3050 3200 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 3050 3200 60  0001 C CNN
+F 3 "" H 3050 3200 60  0001 C CNN
+	1    3050 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L cozy-components:MX SW55
+U 1 1 5F79032F
+P 2400 3200
+F 0 "SW55" H 2400 3423 50  0000 C CNN
+F 1 "MX" H 2400 3200 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 2400 3200 60  0001 C CNN
+F 3 "" H 2400 3200 60  0001 C CNN
+	1    2400 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L cozy-components:MX SW54
+U 1 1 5F790323
+P 1750 3200
+F 0 "SW54" H 1750 3423 50  0000 C CNN
+F 1 "MX" H 1750 3200 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 1750 3200 60  0001 C CNN
+F 3 "" H 1750 3200 60  0001 C CNN
+	1    1750 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L cozy-components:MX SW53
+U 1 1 5F790317
+P 1100 3200
+F 0 "SW53" H 1100 3423 50  0000 C CNN
+F 1 "MX" H 1100 3200 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 1100 3200 60  0001 C CNN
+F 3 "" H 1100 3200 60  0001 C CNN
+	1    1100 3200
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D45
+U 1 1 5F789D81
+P 4050 2800
+F 0 "D45" V 4050 2730 50  0000 R CNN
+F 1 "D_Small" V 4005 2730 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 4050 2800 50  0001 C CNN
+F 3 "~" V 4050 2800 50  0001 C CNN
+	1    4050 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW45
+U 1 1 5F789D7B
+P 4350 2600
+F 0 "SW45" H 4350 2823 50  0000 C CNN
+F 1 "MX" H 4350 2600 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 4350 2600 60  0001 C CNN
+F 3 "" H 4350 2600 60  0001 C CNN
+	1    4350 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D44
+U 1 1 5F789D75
+P 3400 2800
+F 0 "D44" V 3400 2730 50  0000 R CNN
+F 1 "D_Small" V 3355 2730 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 3400 2800 50  0001 C CNN
+F 3 "~" V 3400 2800 50  0001 C CNN
+	1    3400 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW44
+U 1 1 5F789D6F
+P 3700 2600
+F 0 "SW44" H 3700 2823 50  0000 C CNN
+F 1 "MX" H 3700 2600 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 3700 2600 60  0001 C CNN
+F 3 "" H 3700 2600 60  0001 C CNN
+	1    3700 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D43
+U 1 1 5F789D69
+P 2750 2800
+F 0 "D43" V 2750 2730 50  0000 R CNN
+F 1 "D_Small" V 2705 2730 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 2750 2800 50  0001 C CNN
+F 3 "~" V 2750 2800 50  0001 C CNN
+	1    2750 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW43
+U 1 1 5F789D63
+P 3050 2600
+F 0 "SW43" H 3050 2823 50  0000 C CNN
+F 1 "MX" H 3050 2600 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 3050 2600 60  0001 C CNN
+F 3 "" H 3050 2600 60  0001 C CNN
+	1    3050 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D42
+U 1 1 5F789D5D
+P 2100 2800
+F 0 "D42" V 2100 2730 50  0000 R CNN
+F 1 "D_Small" V 2055 2730 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 2100 2800 50  0001 C CNN
+F 3 "~" V 2100 2800 50  0001 C CNN
+	1    2100 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW42
+U 1 1 5F789D57
+P 2400 2600
+F 0 "SW42" H 2400 2823 50  0000 C CNN
+F 1 "MX" H 2400 2600 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 2400 2600 60  0001 C CNN
+F 3 "" H 2400 2600 60  0001 C CNN
+	1    2400 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D41
+U 1 1 5F789D51
+P 1450 2800
+F 0 "D41" V 1450 2730 50  0000 R CNN
+F 1 "D_Small" V 1405 2730 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 1450 2800 50  0001 C CNN
+F 3 "~" V 1450 2800 50  0001 C CNN
+	1    1450 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW41
+U 1 1 5F789D4B
+P 1750 2600
+F 0 "SW41" H 1750 2823 50  0000 C CNN
+F 1 "MX" H 1750 2600 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 1750 2600 60  0001 C CNN
+F 3 "" H 1750 2600 60  0001 C CNN
+	1    1750 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D40
+U 1 1 5F789D45
+P 800 2800
+F 0 "D40" V 800 2730 50  0000 R CNN
+F 1 "D_Small" V 755 2730 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 800 2800 50  0001 C CNN
+F 3 "~" V 800 2800 50  0001 C CNN
+	1    800  2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW40
+U 1 1 5F789D3F
+P 1100 2600
+F 0 "SW40" H 1100 2823 50  0000 C CNN
+F 1 "MX" H 1100 2600 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 1100 2600 60  0001 C CNN
+F 3 "" H 1100 2600 60  0001 C CNN
+	1    1100 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D31
+U 1 1 5F789D39
+P 4050 2200
+F 0 "D31" V 4050 2130 50  0000 R CNN
+F 1 "D_Small" V 4005 2130 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 4050 2200 50  0001 C CNN
+F 3 "~" V 4050 2200 50  0001 C CNN
+	1    4050 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW31
+U 1 1 5F789D33
+P 4350 2000
+F 0 "SW31" H 4350 2223 50  0000 C CNN
+F 1 "MX" H 4350 2000 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 4350 2000 60  0001 C CNN
+F 3 "" H 4350 2000 60  0001 C CNN
+	1    4350 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D30
+U 1 1 5F789D2D
+P 3400 2200
+F 0 "D30" V 3400 2130 50  0000 R CNN
+F 1 "D_Small" V 3355 2130 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 3400 2200 50  0001 C CNN
+F 3 "~" V 3400 2200 50  0001 C CNN
+	1    3400 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW30
+U 1 1 5F789D27
+P 3700 2000
+F 0 "SW30" H 3700 2223 50  0000 C CNN
+F 1 "MX" H 3700 2000 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 3700 2000 60  0001 C CNN
+F 3 "" H 3700 2000 60  0001 C CNN
+	1    3700 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D29
+U 1 1 5F789D21
+P 2750 2200
+F 0 "D29" V 2750 2130 50  0000 R CNN
+F 1 "D_Small" V 2705 2130 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 2750 2200 50  0001 C CNN
+F 3 "~" V 2750 2200 50  0001 C CNN
+	1    2750 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW29
+U 1 1 5F789D1B
+P 3050 2000
+F 0 "SW29" H 3050 2223 50  0000 C CNN
+F 1 "MX" H 3050 2000 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 3050 2000 60  0001 C CNN
+F 3 "" H 3050 2000 60  0001 C CNN
+	1    3050 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D28
+U 1 1 5F789D15
+P 2100 2200
+F 0 "D28" V 2100 2130 50  0000 R CNN
+F 1 "D_Small" V 2055 2130 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 2100 2200 50  0001 C CNN
+F 3 "~" V 2100 2200 50  0001 C CNN
+	1    2100 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW28
+U 1 1 5F789D0F
+P 2400 2000
+F 0 "SW28" H 2400 2223 50  0000 C CNN
+F 1 "MX" H 2400 2000 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 2400 2000 60  0001 C CNN
+F 3 "" H 2400 2000 60  0001 C CNN
+	1    2400 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D27
+U 1 1 5F789D09
+P 1450 2200
+F 0 "D27" V 1450 2130 50  0000 R CNN
+F 1 "D_Small" V 1405 2130 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 1450 2200 50  0001 C CNN
+F 3 "~" V 1450 2200 50  0001 C CNN
+	1    1450 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW27
+U 1 1 5F789D03
+P 1750 2000
+F 0 "SW27" H 1750 2223 50  0000 C CNN
+F 1 "MX" H 1750 2000 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 1750 2000 60  0001 C CNN
+F 3 "" H 1750 2000 60  0001 C CNN
+	1    1750 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D26
+U 1 1 5F789CFD
+P 800 2200
+F 0 "D26" V 800 2130 50  0000 R CNN
+F 1 "D_Small" V 755 2130 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 800 2200 50  0001 C CNN
+F 3 "~" V 800 2200 50  0001 C CNN
+	1    800  2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW26
+U 1 1 5F789CF7
+P 1100 2000
+F 0 "SW26" H 1100 2223 50  0000 C CNN
+F 1 "MX" H 1100 2000 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 1100 2000 60  0001 C CNN
+F 3 "" H 1100 2000 60  0001 C CNN
+	1    1100 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D18
+U 1 1 5F784331
+P 4050 1600
+F 0 "D18" V 4050 1530 50  0000 R CNN
+F 1 "D_Small" V 4005 1530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 4050 1600 50  0001 C CNN
+F 3 "~" V 4050 1600 50  0001 C CNN
+	1    4050 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW18
+U 1 1 5F78432B
+P 4350 1400
+F 0 "SW18" H 4350 1623 50  0000 C CNN
+F 1 "MX" H 4350 1400 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 4350 1400 60  0001 C CNN
+F 3 "" H 4350 1400 60  0001 C CNN
+	1    4350 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D17
+U 1 1 5F784325
+P 3400 1600
+F 0 "D17" V 3400 1530 50  0000 R CNN
+F 1 "D_Small" V 3355 1530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 3400 1600 50  0001 C CNN
+F 3 "~" V 3400 1600 50  0001 C CNN
+	1    3400 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW17
+U 1 1 5F78431F
+P 3700 1400
+F 0 "SW17" H 3700 1623 50  0000 C CNN
+F 1 "MX" H 3700 1400 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 3700 1400 60  0001 C CNN
+F 3 "" H 3700 1400 60  0001 C CNN
+	1    3700 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D16
+U 1 1 5F784319
+P 2750 1600
+F 0 "D16" V 2750 1530 50  0000 R CNN
+F 1 "D_Small" V 2705 1530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 2750 1600 50  0001 C CNN
+F 3 "~" V 2750 1600 50  0001 C CNN
+	1    2750 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW16
+U 1 1 5F784313
+P 3050 1400
+F 0 "SW16" H 3050 1623 50  0000 C CNN
+F 1 "MX" H 3050 1400 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 3050 1400 60  0001 C CNN
+F 3 "" H 3050 1400 60  0001 C CNN
+	1    3050 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D15
+U 1 1 5F78430D
+P 2100 1600
+F 0 "D15" V 2100 1530 50  0000 R CNN
+F 1 "D_Small" V 2055 1530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 2100 1600 50  0001 C CNN
+F 3 "~" V 2100 1600 50  0001 C CNN
+	1    2100 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW15
+U 1 1 5F784307
+P 2400 1400
+F 0 "SW15" H 2400 1623 50  0000 C CNN
+F 1 "MX" H 2400 1400 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 2400 1400 60  0001 C CNN
+F 3 "" H 2400 1400 60  0001 C CNN
+	1    2400 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D14
+U 1 1 5F784301
+P 1450 1600
+F 0 "D14" V 1450 1530 50  0000 R CNN
+F 1 "D_Small" V 1405 1530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 1450 1600 50  0001 C CNN
+F 3 "~" V 1450 1600 50  0001 C CNN
+	1    1450 1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW14
+U 1 1 5F7842FB
+P 1750 1400
+F 0 "SW14" H 1750 1623 50  0000 C CNN
+F 1 "MX" H 1750 1400 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 1750 1400 60  0001 C CNN
+F 3 "" H 1750 1400 60  0001 C CNN
+	1    1750 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D13
+U 1 1 5F7842F5
+P 800 1600
+F 0 "D13" V 800 1530 50  0000 R CNN
+F 1 "D_Small" V 755 1530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 800 1600 50  0001 C CNN
+F 3 "~" V 800 1600 50  0001 C CNN
+	1    800  1600
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW13
+U 1 1 5F7842EF
+P 1100 1400
+F 0 "SW13" H 1100 1623 50  0000 C CNN
+F 1 "MX" H 1100 1400 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 1100 1400 60  0001 C CNN
+F 3 "" H 1100 1400 60  0001 C CNN
+	1    1100 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D6
+U 1 1 5F77DD57
+P 4050 1000
+F 0 "D6" V 4050 930 50  0000 R CNN
+F 1 "D_Small" V 4005 930 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 4050 1000 50  0001 C CNN
+F 3 "~" V 4050 1000 50  0001 C CNN
+	1    4050 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW6
+U 1 1 5F77DD51
+P 4350 800
+F 0 "SW6" H 4350 1023 50  0000 C CNN
+F 1 "MX" H 4350 800 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 4350 800 60  0001 C CNN
+F 3 "" H 4350 800 60  0001 C CNN
+	1    4350 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D5
+U 1 1 5F77DD4B
+P 3400 1000
+F 0 "D5" V 3400 930 50  0000 R CNN
+F 1 "D_Small" V 3355 930 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 3400 1000 50  0001 C CNN
+F 3 "~" V 3400 1000 50  0001 C CNN
+	1    3400 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW5
+U 1 1 5F77DD45
+P 3700 800
+F 0 "SW5" H 3700 1023 50  0000 C CNN
+F 1 "MX" H 3700 800 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 3700 800 60  0001 C CNN
+F 3 "" H 3700 800 60  0001 C CNN
+	1    3700 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D4
+U 1 1 5F77C529
+P 2750 1000
+F 0 "D4" V 2750 930 50  0000 R CNN
+F 1 "D_Small" V 2705 930 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 2750 1000 50  0001 C CNN
+F 3 "~" V 2750 1000 50  0001 C CNN
+	1    2750 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW4
+U 1 1 5F77C523
+P 3050 800
+F 0 "SW4" H 3050 1023 50  0000 C CNN
+F 1 "MX" H 3050 800 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 3050 800 60  0001 C CNN
+F 3 "" H 3050 800 60  0001 C CNN
+	1    3050 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D3
+U 1 1 5F77C51D
+P 2100 1000
+F 0 "D3" V 2100 930 50  0000 R CNN
+F 1 "D_Small" V 2055 930 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 2100 1000 50  0001 C CNN
+F 3 "~" V 2100 1000 50  0001 C CNN
+	1    2100 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW3
+U 1 1 5F77C517
+P 2400 800
+F 0 "SW3" H 2400 1023 50  0000 C CNN
+F 1 "MX" H 2400 800 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 2400 800 60  0001 C CNN
+F 3 "" H 2400 800 60  0001 C CNN
+	1    2400 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D2
+U 1 1 5F77B2F1
+P 1450 1000
+F 0 "D2" V 1450 930 50  0000 R CNN
+F 1 "D_Small" V 1405 930 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 1450 1000 50  0001 C CNN
+F 3 "~" V 1450 1000 50  0001 C CNN
+	1    1450 1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW2
+U 1 1 5F77B2EB
+P 1750 800
+F 0 "SW2" H 1750 1023 50  0000 C CNN
+F 1 "MX" H 1750 800 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 1750 800 60  0001 C CNN
+F 3 "" H 1750 800 60  0001 C CNN
+	1    1750 800 
+	1    0    0    -1  
+$EndComp
+$Comp
+L cozy-components:MX SW1
+U 1 1 5F778880
+P 1100 800
+F 0 "SW1" H 1100 1023 50  0000 C CNN
+F 1 "MX" H 1100 800 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 1100 800 60  0001 C CNN
+F 3 "" H 1100 800 60  0001 C CNN
+	1    1100 800 
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	8600 1100 9250 1100
+Connection ~ 8600 1100
+Wire Wire Line
+	9250 1100 9900 1100
+Connection ~ 9250 1100
+Wire Wire Line
+	6650 1700 7300 1700
+Wire Wire Line
+	7300 1700 7950 1700
+Connection ~ 7300 1700
+Wire Wire Line
+	7950 1700 8600 1700
+Connection ~ 7950 1700
+Wire Wire Line
+	8600 1700 9250 1700
+Connection ~ 8600 1700
+Wire Wire Line
+	9250 1700 9900 1700
+Connection ~ 9250 1700
+Wire Wire Line
+	6650 2300 7300 2300
+Wire Wire Line
+	7300 2300 7950 2300
+Connection ~ 7300 2300
+Wire Wire Line
+	7950 2300 8600 2300
+Connection ~ 7950 2300
+Wire Wire Line
+	8600 2300 9250 2300
+Connection ~ 8600 2300
+Wire Wire Line
+	9250 2300 9900 2300
+Connection ~ 9250 2300
+Wire Wire Line
+	6650 2900 7300 2900
+Wire Wire Line
+	7300 2900 7950 2900
+Connection ~ 7300 2900
+Wire Wire Line
+	7950 2900 8600 2900
+Connection ~ 7950 2900
+Wire Wire Line
+	8600 2900 9250 2900
+Connection ~ 8600 2900
+Wire Wire Line
+	9900 2900 9250 2900
+Connection ~ 9250 2900
+Wire Wire Line
+	6000 3500 6650 3500
+Wire Wire Line
+	6650 3500 7300 3500
+Connection ~ 6650 3500
+Wire Wire Line
+	7300 3500 7950 3500
+Connection ~ 7300 3500
+Wire Wire Line
+	7950 3500 8600 3500
+Connection ~ 7950 3500
+Wire Wire Line
+	8600 3500 9250 3500
+Connection ~ 8600 3500
+Wire Wire Line
+	9250 3500 9900 3500
+Connection ~ 9250 3500
+Wire Wire Line
+	6650 800  6650 900 
+Wire Wire Line
+	7300 800  7300 900 
+Wire Wire Line
+	7950 800  7950 900 
+Wire Wire Line
+	8600 800  8600 900 
+Wire Wire Line
+	9250 800  9250 900 
+Wire Wire Line
+	9900 800  9900 900 
+Wire Wire Line
+	6650 1400 6650 1500
+Wire Wire Line
+	7300 1400 7300 1500
+Wire Wire Line
+	7950 1400 7950 1500
+Wire Wire Line
+	8600 1400 8600 1500
+Wire Wire Line
+	9250 1400 9250 1500
+Wire Wire Line
+	9900 1400 9900 1500
+Wire Wire Line
+	9900 2000 9900 2100
+Wire Wire Line
+	9250 2000 9250 2100
+Wire Wire Line
+	8600 2000 8600 2100
+Wire Wire Line
+	7950 2000 7950 2100
+Wire Wire Line
+	7300 2000 7300 2100
+Wire Wire Line
+	6650 2000 6650 2100
+Wire Wire Line
+	6650 2600 6650 2700
+Wire Wire Line
+	7300 2600 7300 2700
+Wire Wire Line
+	6000 3200 6000 3300
+Wire Wire Line
+	6650 3200 6650 3300
+Wire Wire Line
+	7300 3200 7300 3300
+Wire Wire Line
+	7950 3200 7950 3300
+Wire Wire Line
+	8600 3200 8600 3300
+Wire Wire Line
+	9250 3200 9250 3300
+Wire Wire Line
+	9900 3200 9900 3300
+Wire Wire Line
+	1400 700  1400 800 
+Wire Wire Line
+	1400 800  1400 1400
+Connection ~ 1400 800 
+Wire Wire Line
+	1400 1400 1400 2000
+Connection ~ 1400 1400
+Wire Wire Line
+	1400 2000 1400 2600
+Connection ~ 1400 2000
+Wire Wire Line
+	1400 2600 1400 3200
+Connection ~ 1400 2600
+Wire Wire Line
+	2050 800  2050 700 
+Wire Wire Line
+	2050 800  2050 1400
+Connection ~ 2050 800 
+Wire Wire Line
+	2050 1400 2050 2000
+Connection ~ 2050 1400
+Wire Wire Line
+	2050 2000 2050 2600
+Connection ~ 2050 2000
+Wire Wire Line
+	2050 2600 2050 3200
+Connection ~ 2050 2600
+Wire Wire Line
+	2700 800  2700 1400
+Wire Wire Line
+	2700 1400 2700 2000
+Connection ~ 2700 1400
+Wire Wire Line
+	2700 2000 2700 2600
+Connection ~ 2700 2000
+Wire Wire Line
+	2700 2600 2700 3200
+Connection ~ 2700 2600
+Wire Wire Line
+	3350 800  3350 1400
+Wire Wire Line
+	3350 1400 3350 2000
+Connection ~ 3350 1400
+Wire Wire Line
+	3350 2000 3350 2600
+Connection ~ 3350 2000
+Wire Wire Line
+	3350 2600 3350 3200
+Connection ~ 3350 2600
+Wire Wire Line
+	4000 800  4000 1400
+Wire Wire Line
+	4000 1400 4000 2000
+Connection ~ 4000 1400
+Wire Wire Line
+	4000 2000 4000 2600
+Connection ~ 4000 2000
+Wire Wire Line
+	4000 2600 4000 3200
+Connection ~ 4000 2600
+Wire Wire Line
+	4650 800  4650 1400
+Wire Wire Line
+	4650 1400 4650 2000
+Connection ~ 4650 1400
+Wire Wire Line
+	4650 2000 4650 2600
+Connection ~ 4650 2000
+Wire Wire Line
+	4650 2600 4650 3200
+Connection ~ 4650 2600
+Wire Wire Line
+	2700 700  2700 800 
+Connection ~ 2700 800 
+Wire Wire Line
+	3350 700  3350 800 
+Connection ~ 3350 800 
+Wire Wire Line
+	4000 700  4000 800 
+Connection ~ 4000 800 
+Wire Wire Line
+	4650 700  4650 800 
+Connection ~ 4650 800 
+Wire Wire Line
+	7250 700  7250 800 
+Wire Wire Line
+	7250 800  7250 1400
+Connection ~ 7250 800 
+Wire Wire Line
+	7250 1400 7250 2000
+Connection ~ 7250 1400
+Wire Wire Line
+	7250 2000 7250 2600
+Connection ~ 7250 2000
+Wire Wire Line
+	7250 2600 7250 3200
+Connection ~ 7250 2600
+Wire Wire Line
+	7900 700  7900 800 
+Wire Wire Line
+	7900 800  7900 1400
+Connection ~ 7900 800 
+Wire Wire Line
+	7900 1400 7900 2000
+Connection ~ 7900 1400
+Wire Wire Line
+	7900 2000 7900 2600
+Connection ~ 7900 2000
+Wire Wire Line
+	7900 2600 7900 3200
+Connection ~ 7900 2600
+Wire Wire Line
+	8550 700  8550 800 
+Wire Wire Line
+	8550 800  8550 1400
+Connection ~ 8550 800 
+Wire Wire Line
+	8550 1400 8550 2000
+Connection ~ 8550 1400
+Wire Wire Line
+	8550 2000 8550 2600
+Connection ~ 8550 2000
+Wire Wire Line
+	8550 2600 8550 3200
+Connection ~ 8550 2600
+Wire Wire Line
+	9200 700  9200 800 
+Wire Wire Line
+	9200 800  9200 1400
+Connection ~ 9200 800 
+Wire Wire Line
+	9200 1400 9200 2000
+Connection ~ 9200 1400
+Wire Wire Line
+	9200 2000 9200 2600
+Connection ~ 9200 2000
+Wire Wire Line
+	9200 2600 9200 3200
+Connection ~ 9200 2600
+Wire Wire Line
+	9850 700  9850 800 
+Wire Wire Line
+	9850 800  9850 1400
+Connection ~ 9850 800 
+Wire Wire Line
+	9850 1400 9850 2000
+Connection ~ 9850 1400
+Wire Wire Line
+	9850 2000 9850 2600
+Connection ~ 9850 2000
+Wire Wire Line
+	9850 2600 9850 3200
+Connection ~ 9850 2600
+Wire Wire Line
+	10500 700  10500 800 
+Wire Wire Line
+	10500 800  10500 1400
+Connection ~ 10500 800 
+Wire Wire Line
+	10500 1400 10500 2000
+Connection ~ 10500 1400
+Wire Wire Line
+	10500 2000 10500 2600
+Connection ~ 10500 2000
+Wire Wire Line
+	10500 2600 10500 3200
+Connection ~ 10500 2600
+Wire Wire Line
+	9900 2600 9900 2700
+Wire Wire Line
+	9250 2600 9250 2700
+Wire Wire Line
+	8600 2600 8600 2700
+Wire Wire Line
+	7950 2600 7950 2700
+$Comp
+L Device:D_Small D1
+U 1 1 5F77971B
+P 800 1000
+F 0 "D1" V 800 930 50  0000 R CNN
+F 1 "D_Small" V 755 930 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 800 1000 50  0001 C CNN
+F 3 "~" V 800 1000 50  0001 C CNN
+	1    800  1000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L keebio-components:Elite-C U1
+U 1 1 5FF1CA90
+P 2400 5600
+F 0 "U1" H 2400 6331 60  0000 C CNN
+F 1 "Elite-C" H 2400 6331 60  0001 C CNN
+F 2 "Keebio-Parts:Elite-C" V 3450 3100 60  0001 C CNN
+F 3 "" V 3450 3100 60  0001 C CNN
+	1    2400 5600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:C_Small C1
+U 1 1 5FF22D49
+P 1400 3850
+F 0 "C1" V 1263 3850 50  0000 C CNN
+F 1 "C_Small" V 1262 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 1400 3850 50  0001 C CNN
+F 3 "~" H 1400 3850 50  0001 C CNN
+	1    1400 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L LED:WS2812B L1
+U 1 1 5FF366CE
+P 1400 4300
+F 0 "L1" H 1650 4200 50  0000 L CNN
+F 1 "WS2812B" H 1744 4255 50  0001 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 1450 4000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 1500 3925 50  0001 L TNN
+	1    1400 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0101
+U 1 1 5FF381E9
+P 1600 3850
+F 0 "#PWR0101" H 1600 3600 50  0001 C CNN
+F 1 "GND" V 1605 3722 50  0000 R CNN
+F 2 "" H 1600 3850 50  0001 C CNN
+F 3 "" H 1600 3850 50  0001 C CNN
+	1    1600 3850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1500 3850 1600 3850
+$Comp
+L Device:C_Small C2
+U 1 1 5FF483FD
+P 2100 3850
+F 0 "C2" V 1963 3850 50  0000 C CNN
+F 1 "C_Small" V 1962 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2100 3850 50  0001 C CNN
+F 3 "~" H 2100 3850 50  0001 C CNN
+	1    2100 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L LED:WS2812B L2
+U 1 1 5FF48403
+P 2100 4300
+F 0 "L2" H 2350 4200 50  0000 L CNN
+F 1 "WS2812B" H 2444 4255 50  0001 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 2150 4000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2200 3925 50  0001 L TNN
+	1    2100 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0102
+U 1 1 5FF48409
+P 2300 3850
+F 0 "#PWR0102" H 2300 3600 50  0001 C CNN
+F 1 "GND" V 2305 3722 50  0000 R CNN
+F 2 "" H 2300 3850 50  0001 C CNN
+F 3 "" H 2300 3850 50  0001 C CNN
+	1    2300 3850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2200 3850 2300 3850
+$Comp
+L Device:C_Small C3
+U 1 1 5FF549C7
+P 2800 3850
+F 0 "C3" V 2663 3850 50  0000 C CNN
+F 1 "C_Small" V 2662 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 2800 3850 50  0001 C CNN
+F 3 "~" H 2800 3850 50  0001 C CNN
+	1    2800 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L LED:WS2812B L3
+U 1 1 5FF549CD
+P 2800 4300
+F 0 "L3" H 3050 4200 50  0000 L CNN
+F 1 "WS2812B" H 3144 4255 50  0001 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 2850 4000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 2900 3925 50  0001 L TNN
+	1    2800 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0103
+U 1 1 5FF549D3
+P 3000 3850
+F 0 "#PWR0103" H 3000 3600 50  0001 C CNN
+F 1 "GND" V 3005 3722 50  0000 R CNN
+F 2 "" H 3000 3850 50  0001 C CNN
+F 3 "" H 3000 3850 50  0001 C CNN
+	1    3000 3850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	2900 3850 3000 3850
+$Comp
+L Device:C_Small C4
+U 1 1 5FF641A3
+P 3500 3850
+F 0 "C4" V 3363 3850 50  0000 C CNN
+F 1 "C_Small" V 3362 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 3500 3850 50  0001 C CNN
+F 3 "~" H 3500 3850 50  0001 C CNN
+	1    3500 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L LED:WS2812B L4
+U 1 1 5FF641A9
+P 3500 4300
+F 0 "L4" H 3750 4200 50  0000 L CNN
+F 1 "WS2812B" H 3844 4255 50  0001 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 3550 4000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 3600 3925 50  0001 L TNN
+	1    3500 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0104
+U 1 1 5FF641AF
+P 3700 3850
+F 0 "#PWR0104" H 3700 3600 50  0001 C CNN
+F 1 "GND" V 3705 3722 50  0000 R CNN
+F 2 "" H 3700 3850 50  0001 C CNN
+F 3 "" H 3700 3850 50  0001 C CNN
+	1    3700 3850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	3600 3850 3700 3850
+$Comp
+L Device:C_Small C5
+U 1 1 5FF641B6
+P 4200 3850
+F 0 "C5" V 4063 3850 50  0000 C CNN
+F 1 "C_Small" V 4062 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4200 3850 50  0001 C CNN
+F 3 "~" H 4200 3850 50  0001 C CNN
+	1    4200 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L LED:WS2812B L5
+U 1 1 5FF641BC
+P 4200 4300
+F 0 "L5" H 4450 4200 50  0000 L CNN
+F 1 "WS2812B" H 4544 4255 50  0001 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4250 4000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 4300 3925 50  0001 L TNN
+	1    4200 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0105
+U 1 1 5FF641C2
+P 4400 3850
+F 0 "#PWR0105" H 4400 3600 50  0001 C CNN
+F 1 "GND" V 4405 3722 50  0000 R CNN
+F 2 "" H 4400 3850 50  0001 C CNN
+F 3 "" H 4400 3850 50  0001 C CNN
+	1    4400 3850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	4300 3850 4400 3850
+$Comp
+L Device:C_Small C6
+U 1 1 5FF641C9
+P 4900 3850
+F 0 "C6" V 4763 3850 50  0000 C CNN
+F 1 "C_Small" V 4762 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 4900 3850 50  0001 C CNN
+F 3 "~" H 4900 3850 50  0001 C CNN
+	1    4900 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L LED:WS2812B L6
+U 1 1 5FF641CF
+P 4900 4300
+F 0 "L6" H 5150 4200 50  0000 L CNN
+F 1 "WS2812B" H 5244 4255 50  0001 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 4950 4000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5000 3925 50  0001 L TNN
+	1    4900 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0106
+U 1 1 5FF641D5
+P 5100 3850
+F 0 "#PWR0106" H 5100 3600 50  0001 C CNN
+F 1 "GND" V 5105 3722 50  0000 R CNN
+F 2 "" H 5100 3850 50  0001 C CNN
+F 3 "" H 5100 3850 50  0001 C CNN
+	1    5100 3850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5000 3850 5100 3850
+$Comp
+L Device:C_Small C7
+U 1 1 5FFD1AFD
+P 5600 3850
+F 0 "C7" V 5463 3850 50  0000 C CNN
+F 1 "C_Small" V 5462 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 5600 3850 50  0001 C CNN
+F 3 "~" H 5600 3850 50  0001 C CNN
+	1    5600 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L LED:WS2812B L7
+U 1 1 5FFD1B03
+P 5600 4300
+F 0 "L7" H 5850 4200 50  0000 L CNN
+F 1 "WS2812B" H 5944 4255 50  0001 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 5650 4000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 5700 3925 50  0001 L TNN
+	1    5600 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0107
+U 1 1 5FFD1B09
+P 5800 3850
+F 0 "#PWR0107" H 5800 3600 50  0001 C CNN
+F 1 "GND" V 5805 3722 50  0000 R CNN
+F 2 "" H 5800 3850 50  0001 C CNN
+F 3 "" H 5800 3850 50  0001 C CNN
+	1    5800 3850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	5700 3850 5800 3850
+$Comp
+L Device:C_Small C8
+U 1 1 5FFD1B10
+P 6300 3850
+F 0 "C8" V 6163 3850 50  0000 C CNN
+F 1 "C_Small" V 6162 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 6300 3850 50  0001 C CNN
+F 3 "~" H 6300 3850 50  0001 C CNN
+	1    6300 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L LED:WS2812B L8
+U 1 1 5FFD1B16
+P 6300 4300
+F 0 "L8" H 6550 4200 50  0000 L CNN
+F 1 "WS2812B" H 6644 4255 50  0001 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 6350 4000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 6400 3925 50  0001 L TNN
+	1    6300 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0108
+U 1 1 5FFD1B1C
+P 6500 3850
+F 0 "#PWR0108" H 6500 3600 50  0001 C CNN
+F 1 "GND" V 6505 3722 50  0000 R CNN
+F 2 "" H 6500 3850 50  0001 C CNN
+F 3 "" H 6500 3850 50  0001 C CNN
+	1    6500 3850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6400 3850 6500 3850
+$Comp
+L Device:C_Small C9
+U 1 1 5FFD1B23
+P 7000 3850
+F 0 "C9" V 6863 3850 50  0000 C CNN
+F 1 "C_Small" V 6862 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 7000 3850 50  0001 C CNN
+F 3 "~" H 7000 3850 50  0001 C CNN
+	1    7000 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L LED:WS2812B L9
+U 1 1 5FFD1B29
+P 7000 4300
+F 0 "L9" H 7250 4200 50  0000 L CNN
+F 1 "WS2812B" H 7344 4255 50  0001 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 7050 4000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 7100 3925 50  0001 L TNN
+	1    7000 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0109
+U 1 1 5FFD1B2F
+P 7200 3850
+F 0 "#PWR0109" H 7200 3600 50  0001 C CNN
+F 1 "GND" V 7205 3722 50  0000 R CNN
+F 2 "" H 7200 3850 50  0001 C CNN
+F 3 "" H 7200 3850 50  0001 C CNN
+	1    7200 3850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7100 3850 7200 3850
+$Comp
+L Device:C_Small C10
+U 1 1 5FFD1B36
+P 7700 3850
+F 0 "C10" V 7563 3850 50  0000 C CNN
+F 1 "C_Small" V 7562 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 7700 3850 50  0001 C CNN
+F 3 "~" H 7700 3850 50  0001 C CNN
+	1    7700 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L LED:WS2812B L10
+U 1 1 5FFD1B3C
+P 7700 4300
+F 0 "L10" H 7950 4200 50  0000 L CNN
+F 1 "WS2812B" H 8044 4255 50  0001 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 7750 4000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 7800 3925 50  0001 L TNN
+	1    7700 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0110
+U 1 1 5FFD1B42
+P 7900 3850
+F 0 "#PWR0110" H 7900 3600 50  0001 C CNN
+F 1 "GND" V 7905 3722 50  0000 R CNN
+F 2 "" H 7900 3850 50  0001 C CNN
+F 3 "" H 7900 3850 50  0001 C CNN
+	1    7900 3850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	7800 3850 7900 3850
+$Comp
+L Device:C_Small C11
+U 1 1 5FFD1B49
+P 8400 3850
+F 0 "C11" V 8263 3850 50  0000 C CNN
+F 1 "C_Small" V 8262 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 8400 3850 50  0001 C CNN
+F 3 "~" H 8400 3850 50  0001 C CNN
+	1    8400 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L LED:WS2812B L11
+U 1 1 5FFD1B4F
+P 8400 4300
+F 0 "L11" H 8650 4200 50  0000 L CNN
+F 1 "WS2812B" H 8744 4255 50  0001 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 8450 4000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 8500 3925 50  0001 L TNN
+	1    8400 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0111
+U 1 1 5FFD1B55
+P 8600 3850
+F 0 "#PWR0111" H 8600 3600 50  0001 C CNN
+F 1 "GND" V 8605 3722 50  0000 R CNN
+F 2 "" H 8600 3850 50  0001 C CNN
+F 3 "" H 8600 3850 50  0001 C CNN
+	1    8600 3850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	8500 3850 8600 3850
+$Comp
+L Device:C_Small C12
+U 1 1 5FFD1B5C
+P 9100 3850
+F 0 "C12" V 8963 3850 50  0000 C CNN
+F 1 "C_Small" V 8962 3850 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0805_2012Metric_Pad1.15x1.40mm_HandSolder" H 9100 3850 50  0001 C CNN
+F 3 "~" H 9100 3850 50  0001 C CNN
+	1    9100 3850
+	0    1    1    0   
+$EndComp
+$Comp
+L LED:WS2812B L12
+U 1 1 5FFD1B62
+P 9100 4300
+F 0 "L12" H 9350 4200 50  0000 L CNN
+F 1 "WS2812B" H 9444 4255 50  0001 L CNN
+F 2 "LED_SMD:LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm" H 9150 4000 50  0001 L TNN
+F 3 "https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf" H 9200 3925 50  0001 L TNN
+	1    9100 4300
+	1    0    0    -1  
+$EndComp
+$Comp
+L power:GND #PWR0112
+U 1 1 5FFD1B68
+P 9300 3850
+F 0 "#PWR0112" H 9300 3600 50  0001 C CNN
+F 1 "GND" V 9305 3722 50  0000 R CNN
+F 2 "" H 9300 3850 50  0001 C CNN
+F 3 "" H 9300 3850 50  0001 C CNN
+	1    9300 3850
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	9200 3850 9300 3850
+$Comp
+L power:VCC #PWR0113
+U 1 1 5FFEA147
+P 1000 4000
+F 0 "#PWR0113" H 1000 3850 50  0001 C CNN
+F 1 "VCC" V 1015 4127 50  0000 L CNN
+F 2 "" H 1000 4000 50  0001 C CNN
+F 3 "" H 1000 4000 50  0001 C CNN
+	1    1000 4000
+	0    -1   -1   0   
+$EndComp
+$Comp
+L power:GND #PWR0114
+U 1 1 5FFEB893
+P 1000 4600
+F 0 "#PWR0114" H 1000 4350 50  0001 C CNN
+F 1 "GND" V 1005 4472 50  0000 R CNN
+F 2 "" H 1000 4600 50  0001 C CNN
+F 3 "" H 1000 4600 50  0001 C CNN
+	1    1000 4600
+	0    1    1    0   
+$EndComp
+Wire Wire Line
+	1000 4000 1300 4000
+Wire Wire Line
+	1400 4000 2000 4000
+Connection ~ 1400 4000
+Wire Wire Line
+	2100 4000 2700 4000
+Connection ~ 2100 4000
+Wire Wire Line
+	2800 4000 3400 4000
+Connection ~ 2800 4000
+Wire Wire Line
+	3500 4000 4100 4000
+Connection ~ 3500 4000
+Wire Wire Line
+	4200 4000 4800 4000
+Connection ~ 4200 4000
+Wire Wire Line
+	4900 4000 5500 4000
+Connection ~ 4900 4000
+Wire Wire Line
+	5600 4000 6200 4000
+Connection ~ 5600 4000
+Wire Wire Line
+	6300 4000 6900 4000
+Connection ~ 6300 4000
+Wire Wire Line
+	7000 4000 7600 4000
+Connection ~ 7000 4000
+Wire Wire Line
+	7700 4000 8300 4000
+Connection ~ 7700 4000
+Wire Wire Line
+	8400 4000 9000 4000
+Connection ~ 8400 4000
+Wire Wire Line
+	1000 4600 1400 4600
+Wire Wire Line
+	1400 4600 2100 4600
+Connection ~ 1400 4600
+Wire Wire Line
+	2100 4600 2800 4600
+Connection ~ 2100 4600
+Wire Wire Line
+	2800 4600 3500 4600
+Connection ~ 2800 4600
+Wire Wire Line
+	3500 4600 4200 4600
+Connection ~ 3500 4600
+Wire Wire Line
+	4200 4600 4900 4600
+Connection ~ 4200 4600
+Wire Wire Line
+	4900 4600 5600 4600
+Connection ~ 4900 4600
+Wire Wire Line
+	5600 4600 6300 4600
+Connection ~ 5600 4600
+Wire Wire Line
+	6300 4600 7000 4600
+Connection ~ 6300 4600
+Wire Wire Line
+	7000 4600 7700 4600
+Connection ~ 7000 4600
+Wire Wire Line
+	7700 4600 8400 4600
+Connection ~ 7700 4600
+Wire Wire Line
+	8400 4600 9100 4600
+Connection ~ 8400 4600
+Wire Wire Line
+	1300 3850 1300 4000
+Connection ~ 1300 4000
+Wire Wire Line
+	1300 4000 1400 4000
+Wire Wire Line
+	2000 3850 2000 4000
+Connection ~ 2000 4000
+Wire Wire Line
+	2000 4000 2100 4000
+Wire Wire Line
+	2700 3850 2700 4000
+Connection ~ 2700 4000
+Wire Wire Line
+	2700 4000 2800 4000
+Wire Wire Line
+	3400 3850 3400 4000
+Connection ~ 3400 4000
+Wire Wire Line
+	3400 4000 3500 4000
+Wire Wire Line
+	4100 3850 4100 4000
+Connection ~ 4100 4000
+Wire Wire Line
+	4100 4000 4200 4000
+Wire Wire Line
+	4800 3850 4800 4000
+Connection ~ 4800 4000
+Wire Wire Line
+	4800 4000 4900 4000
+Wire Wire Line
+	5500 3850 5500 4000
+Connection ~ 5500 4000
+Wire Wire Line
+	5500 4000 5600 4000
+Wire Wire Line
+	6200 3850 6200 4000
+Connection ~ 6200 4000
+Wire Wire Line
+	6200 4000 6300 4000
+Wire Wire Line
+	6900 3850 6900 4000
+Connection ~ 6900 4000
+Wire Wire Line
+	6900 4000 7000 4000
+Wire Wire Line
+	7600 3850 7600 4000
+Connection ~ 7600 4000
+Wire Wire Line
+	7600 4000 7700 4000
+Wire Wire Line
+	8300 3850 8300 4000
+Connection ~ 8300 4000
+Wire Wire Line
+	8300 4000 8400 4000
+Wire Wire Line
+	9000 3850 9000 4000
+Connection ~ 9000 4000
+Wire Wire Line
+	9000 4000 9100 4000
+Wire Wire Line
+	1700 4300 1800 4300
+Wire Wire Line
+	2400 4300 2500 4300
+Wire Wire Line
+	3100 4300 3200 4300
+Wire Wire Line
+	3800 4300 3900 4300
+Wire Wire Line
+	4500 4300 4600 4300
+Wire Wire Line
+	5200 4300 5300 4300
+Wire Wire Line
+	5900 4300 6000 4300
+Wire Wire Line
+	6600 4300 6700 4300
+Wire Wire Line
+	7300 4300 7400 4300
+Wire Wire Line
+	8000 4300 8100 4300
+Wire Wire Line
+	8700 4300 8800 4300
+Text Label 1000 4300 2    50   ~ 0
+rgb_in
+Wire Wire Line
+	1000 4300 1100 4300
+$Comp
+L power:GND #PWR0115
+U 1 1 60387120
+P 1600 5250
+F 0 "#PWR0115" H 1600 5000 50  0001 C CNN
+F 1 "GND" V 1605 5122 50  0000 R CNN
+F 2 "" H 1600 5250 50  0001 C CNN
+F 3 "" H 1600 5250 50  0001 C CNN
+	1    1600 5250
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0116
+U 1 1 60387C1E
+P 1600 5350
+F 0 "#PWR0116" H 1600 5100 50  0001 C CNN
+F 1 "GND" V 1605 5222 50  0000 R CNN
+F 2 "" H 1600 5350 50  0001 C CNN
+F 3 "" H 1600 5350 50  0001 C CNN
+	1    1600 5350
+	0    1    1    0   
+$EndComp
+$Comp
+L power:GND #PWR0117
+U 1 1 603885BB
+P 3200 5150
+F 0 "#PWR0117" H 3200 4900 50  0001 C CNN
+F 1 "GND" V 3205 5022 50  0000 R CNN
+F 2 "" H 3200 5150 50  0001 C CNN
+F 3 "" H 3200 5150 50  0001 C CNN
+	1    3200 5150
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	1600 5250 1700 5250
+Wire Wire Line
+	1600 5350 1700 5350
+Wire Wire Line
+	3100 5150 3200 5150
+Text Label 1700 6150 2    50   ~ 0
+rgb_in
+$Comp
+L power:VCC #PWR0118
+U 1 1 603CB17C
+P 3200 5350
+F 0 "#PWR0118" H 3200 5200 50  0001 C CNN
+F 1 "VCC" V 3215 5478 50  0000 L CNN
+F 2 "" H 3200 5350 50  0001 C CNN
+F 3 "" H 3200 5350 50  0001 C CNN
+	1    3200 5350
+	0    1    1    0   
+$EndComp
+NoConn ~ 3100 5250
+Wire Wire Line
+	3100 5350 3200 5350
+Text Label 3100 5450 0    50   ~ 0
+col0
+Text Label 3100 5550 0    50   ~ 0
+col1
+Text Label 3100 5650 0    50   ~ 0
+col2
+Text Label 3100 5750 0    50   ~ 0
+col3
+Text Label 3100 5850 0    50   ~ 0
+col4
+Text Label 3100 5950 0    50   ~ 0
+col5
+Text Label 1700 5450 2    50   ~ 0
+col13
+Text Label 1700 5550 2    50   ~ 0
+col12
+Text Label 1700 5650 2    50   ~ 0
+col11
+Text Label 1700 5750 2    50   ~ 0
+col10
+Text Label 1700 5850 2    50   ~ 0
+col9
+Text Label 1700 5950 2    50   ~ 0
+col8
+Text Label 3100 6150 0    50   ~ 0
+col6
+Text Label 3100 6050 0    50   ~ 0
+col7
+Text Label 2600 6550 3    50   ~ 0
+row0
+Text Label 2500 6550 3    50   ~ 0
+row1
+Text Label 2400 6550 3    50   ~ 0
+row2
+Text Label 2300 6550 3    50   ~ 0
+row3
+Text Label 2200 6550 3    50   ~ 0
+row4
+NoConn ~ 3100 5050
+NoConn ~ 1700 6050
+NoConn ~ 1700 5150
+NoConn ~ 1700 5050
+NoConn ~ 9400 4300
+NoConn ~ -7450 100 
+$Comp
+L cozy-components:MX SW59
+U 1 1 5F7F1147
+P 5000 3200
+F 0 "SW59" H 5000 3423 50  0000 C CNN
+F 1 "MX" H 5000 3200 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 5000 3200 60  0001 C CNN
+F 3 "" H 5000 3200 60  0001 C CNN
+	1    5000 3200
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5300 2000 5300 1900
+Wire Wire Line
+	5950 1400 5950 1300
+Wire Wire Line
+	6000 2000 6000 2100
+Wire Wire Line
+	5350 2600 5350 2700
+Wire Wire Line
+	4700 2000 4700 2100
+Wire Wire Line
+	5350 1400 5350 1500
+$Comp
+L cozy-components:MX SW32
+U 1 1 5F7F89D7
+P 5000 2000
+F 0 "SW32" H 5000 2223 50  0000 C CNN
+F 1 "MX" H 5000 2000 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 5000 2000 60  0001 C CNN
+F 3 "" H 5000 2000 60  0001 C CNN
+	1    5000 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L cozy-components:MX SW33
+U 1 1 5F7F89E3
+P 6300 2000
+F 0 "SW33" H 6300 2223 50  0000 C CNN
+F 1 "MX" H 6300 2000 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 6300 2000 60  0001 C CNN
+F 3 "" H 6300 2000 60  0001 C CNN
+	1    6300 2000
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D33
+U 1 1 5F7F89E9
+P 6000 2200
+F 0 "D33" V 6000 2130 50  0000 R CNN
+F 1 "D_Small" V 5955 2130 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 6000 2200 50  0001 C CNN
+F 3 "~" V 6000 2200 50  0001 C CNN
+	1    6000 2200
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW46
+U 1 1 5F813DAF
+P 5650 2600
+F 0 "SW46" H 5650 2823 50  0000 C CNN
+F 1 "MX" H 5650 2600 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 5650 2600 60  0001 C CNN
+F 3 "" H 5650 2600 60  0001 C CNN
+	1    5650 2600
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D46
+U 1 1 5F813DB5
+P 5350 2800
+F 0 "D46" V 5350 2730 50  0000 R CNN
+F 1 "D_Small" V 5305 2730 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 5350 2800 50  0001 C CNN
+F 3 "~" V 5350 2800 50  0001 C CNN
+	1    5350 2800
+	0    -1   -1   0   
+$EndComp
+$Comp
+L cozy-components:MX SW19
+U 1 1 5F8147CF
+P 5650 1400
+F 0 "SW19" H 5650 1623 50  0000 C CNN
+F 1 "MX" H 5650 1400 60  0001 C CNN
+F 2 "cozy-parts:MX_1.00u" H 5650 1400 60  0001 C CNN
+F 3 "" H 5650 1400 60  0001 C CNN
+	1    5650 1400
+	1    0    0    -1  
+$EndComp
+$Comp
+L Device:D_Small D19
+U 1 1 5F8147D5
+P 5350 1600
+F 0 "D19" V 5350 1530 50  0000 R CNN
+F 1 "D_Small" V 5305 1530 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 5350 1600 50  0001 C CNN
+F 3 "~" V 5350 1600 50  0001 C CNN
+	1    5350 1600
+	0    -1   -1   0   
+$EndComp
+Text Label 5300 1900 1    50   ~ 0
+col6
+Text Label 5950 1300 1    50   ~ 0
+col7
+$Comp
+L Device:D_Small D32
+U 1 1 5F7F89DD
+P 4700 2200
+F 0 "D32" V 4700 2130 50  0000 R CNN
+F 1 "D_Small" V 4655 2130 50  0001 R CNN
+F 2 "Diode_SMD:D_SOD-123F" V 4700 2200 50  0001 C CNN
+F 3 "~" V 4700 2200 50  0001 C CNN
+	1    4700 2200
+	0    -1   -1   0   
+$EndComp
+Wire Wire Line
+	6600 3200 6600 2000
+Text Label 10600 3500 0    50   ~ 0
+row4
+Text Label 10600 2900 0    50   ~ 0
+row3
+Text Label 10600 2300 0    50   ~ 0
+row2
+Text Label 10600 1100 0    50   ~ 0
+row0
+Text Label 10600 1700 0    50   ~ 0
+row1
+Wire Wire Line
+	9900 1100 10600 1100
+Connection ~ 9900 1100
+Wire Wire Line
+	9900 1700 10600 1700
+Connection ~ 9900 1700
+Wire Wire Line
+	9900 2300 10600 2300
+Connection ~ 9900 2300
+Wire Wire Line
+	9900 2900 10600 2900
+Connection ~ 9900 2900
+Wire Wire Line
+	9900 3500 10600 3500
+Connection ~ 9900 3500
+Wire Wire Line
+	4050 2300 4700 2300
+Connection ~ 4050 2300
+Wire Wire Line
+	4050 2900 5350 2900
+Connection ~ 4050 2900
+Wire Wire Line
+	6600 2000 6600 1700
+Wire Wire Line
+	6600 1700 5950 1700
+Wire Wire Line
+	5950 1700 5950 1400
+Connection ~ 6600 2000
+Connection ~ 5950 1400
+Wire Wire Line
+	5300 2300 5300 2000
+Connection ~ 5300 2000
+Wire Wire Line
+	5300 3200 5300 2950
+Wire Wire Line
+	5300 2950 5950 2950
+Wire Wire Line
+	5950 2950 5950 2600
+Wire Wire Line
+	5950 2600 5950 2500
+Wire Wire Line
+	5950 2500 5850 2500
+Wire Wire Line
+	5850 2500 5850 2300
+Wire Wire Line
+	5850 2300 5300 2300
+Connection ~ 5950 2600
+Wire Wire Line
+	6650 2900 6000 2900
+Wire Wire Line
+	6000 2900 6000 2300
+Connection ~ 6650 2900
+Wire Wire Line
+	6650 2300 6050 2300
+Wire Wire Line
+	6050 2300 6050 2350
+Wire Wire Line
+	6050 2350 5900 2350
+Wire Wire Line
+	5900 2350 5900 1700
+Wire Wire Line
+	5900 1700 5350 1700
+Connection ~ 6650 2300
+$EndSCHEMATC
