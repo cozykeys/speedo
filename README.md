@@ -4,6 +4,16 @@ This repository contains the design files for the CozyKeys Speedo keyboard. The
 Speedo is a 66-key ergonomic mechanical keyboard heavily inspired by the
 Atreus/Atreus62.
 
+<p align="center">
+<img src="http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-v3.0-angle-led-front_800x800.png" alt="Speedo Front"/>
+</p>
+
+<p align="center">
+<img src="http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-v3.0-angle-led-back_800x800.png" alt="Speedo Back"/>
+</p>
+
+## Features
+
 - Powered by an Elite-C microcontroller
 - Runs QMK firmware
 - Compact ergonomic layout
@@ -11,9 +21,12 @@ Atreus/Atreus62.
 - Low profile (Switches mounted ~13mm from surface keyboard sits on)
 - Case/PCB design files free and open source
 
-![Speedo Front](http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-v3.0-angle-led-front_800x800.png)
+## Build Guide
 
-![Speedo Back](http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-v3.0-angle-led-back_800x800.png)
+A build guide and parts list are provided at
+[./build_guide.md](./build_guide.md).
+
+# Details
 
 ## Firmware
 
@@ -25,11 +38,15 @@ https://github.com/qmk/qmk_firmware/tree/master/keyboards/speedo
 
 ### Default Layer
 
-![Default Layer](./layout/speedo_layer_default.svg)
+<p align="center">
+<img src="./layout/speedo_layer_default.svg" alt="Default Layer"/>
+</p>
 
 ### Function Layer
 
-![Function Layer](./layout/speedo_layer_fn.svg)
+<p align="center">
+<img src="./layout/speedo_layer_fn.svg" alt="Function Layer"/>
+</p>
 
 ## Case
 
@@ -42,27 +59,39 @@ The case is comprised of 4 layers:
 
 ### Top
 
-![Top](./case/speedo_top.svg)
+<p align="center">
+<img src="./case/speedo_top.svg" alt="Top"/>
+</p>
 
 ### Switch
 
-![Switch](./case/speedo_switch.svg)
+<p align="center">
+<img src="./case/speedo_switch.svg" alt="Switch"/>
+</p>
 
 ### Middle
 
-![Middle](./case/speedo_middle.svg)
+<p align="center">
+<img src="./case/speedo_middle.svg" alt="Middle"/>
+</p>
 
 ### Bottom
 
-![Bottom](./case/speedo_bottom.svg)
+<p align="center">
+<img src="./case/speedo_bottom.svg" alt="Bottom"/>
+</p>
 
 ## PCB
 
-![Speedo PCB](http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-v3.0-pcb_800x800.png)
+<p align="center">
+<img src="http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-v3.0-pcb_800x800.png" alt="Speedo PCB"/>
+</p>
 
 Artwork provided by [Racknar Teyssier](https://www.instagram.com/artbyrtm/)!
 
-![PCB Artwork](https://raw.githubusercontent.com/cozykeys/resources/master/assets/Cozy_Keys_color.svg)
+<p align="center">
+<img src="https://raw.githubusercontent.com/cozykeys/resources/master/assets/Cozy_Keys_color.svg" alt="PCB Artwork"/>
+</p>
 
 ## Release Notes
 
@@ -80,7 +109,9 @@ Speedo with a number of changes:
 
 ### rev2
 
-![Speedo](http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-angle_800x800.jpg)
+<p align="center">
+<img src="http://assets.cozykeys.xyz/images/keyboards/speedo/speedo-angle_800x800.jpg" alt="Speedo"/>
+</p>
 
 The second version fixed the thumb clusters. I had yet to get into PCB design
 so this was only ever made via hand-wiring.
